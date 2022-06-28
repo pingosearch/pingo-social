@@ -1,0 +1,40 @@
+---
+hu:
+  activerecord:
+    attributes:
+      poll:
+        expires_at: Határidő
+        options: Lehetőségek
+      user:
+        agreement: Szolgáltatási megállapodás
+        email: E-mail-cím
+        locale: Régió
+        password: Jelszó
+      user/account:
+        username: Felhasználónév
+      user/invite_request:
+        text: Indoklás
+    errors:
+      models:
+        account:
+          attributes:
+            username:
+              invalid: csak betűket, számokat vagy alávonást tartalmazhat
+              reserved: fenntartott
+        admin/webhook:
+          attributes:
+            url:
+              invalid: nem érvényes URL
+        doorkeeper/application:
+          attributes:
+            website:
+              invalid: nem érvényes URL
+        status:
+          attributes:
+            reblog:
+              taken: már létezik ehhez a bejegyzéshez
+        user:
+          attributes:
+            email:
+              blocked: egy letiltott e-mail szolgáltatót használ
+              unreachable: úgy tűnik, hogy nem létezik
