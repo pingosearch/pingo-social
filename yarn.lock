@@ -1486,7 +1486,7 @@
     "@types/yargs" "^16.0.0"
     chalk "^4.0.0"
 
-"@jest/types@^28.1.0", "@jest/types@^28.1.1":
+"@jest/types@^28.1.1":
   version "28.1.1"
   resolved "https://registry.yarnpkg.com/@jest/types/-/types-28.1.1.tgz#d059bbc80e6da6eda9f081f293299348bd78ee0b"
   integrity sha512-vRXVqSg1VhDnB8bWcmvLzmg0Bt9CRKVgHPXqYwvWMX3TvAjeO+nRuK6+VdTKCtWOvYlmkF/HqNAL/z+N3B53Kw==
@@ -6728,7 +6728,7 @@ jest-snapshot@^28.1.1:
     pretty-format "^28.1.1"
     semver "^7.3.5"
 
-jest-util@^28.1.0, jest-util@^28.1.1:
+jest-util@^28.1.1:
   version "28.1.1"
   resolved "https://registry.yarnpkg.com/jest-util/-/jest-util-28.1.1.tgz#ff39e436a1aca397c0ab998db5a51ae2b7080d05"
   integrity sha512-FktOu7ca1DZSyhPAxgxB6hfh2+9zMoJ7aEQA759Z6p45NuO8mWcqujH+UdHlCm/V6JTWwDztM2ITCzU1ijJAfw==
@@ -11234,10 +11234,10 @@ uuid@^3.3.2, uuid@^3.4.0:
   resolved "https://registry.yarnpkg.com/uuid/-/uuid-3.4.0.tgz#b23e4358afa8a202fe7a100af1f5f883f02007ee"
   integrity sha512-HjSDRw6gZE5JMggctHBcjVak08+KEVhSIiDzFnT9S9aegmp85S/bReBVTb4QTFaRNptJ9kuYaNhnbNEOkbKb/A==
 
-uuid@^8.3.1:
-  version "8.3.2"
-  resolved "https://registry.yarnpkg.com/uuid/-/uuid-8.3.2.tgz#80d5b5ced271bb9af6c445f21a1a04c606cefbe2"
-  integrity sha512-+NYs2QeMWy+GWFOEm9xnn6HCDp0l7QBD7ml8zLUmJ+93Q5NF0NocErnwkTkXVFNiX3/fpC6afS8Dhb/gz7R7eg==
+uuid@^9.0.0:
+  version "9.0.0"
+  resolved "https://registry.yarnpkg.com/uuid/-/uuid-9.0.0.tgz#592f550650024a38ceb0c562f2f6aa435761efb5"
+  integrity sha512-MXcSTerfPa4uqyzStbRoTgt5XIe3x5+42+q1sDuy3R5MDk66URdLMOZe5aPX/SQd+kuYAh0FdP/pO28IkQyTeg==
 
 v8-compile-cache@^2.0.3, v8-compile-cache@^2.1.1, v8-compile-cache@^2.3.0:
   version "2.3.0"
