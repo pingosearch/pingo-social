@@ -1486,7 +1486,7 @@
     "@types/yargs" "^16.0.0"
     chalk "^4.0.0"
 
-"@jest/types@^28.1.0", "@jest/types@^28.1.1":
+"@jest/types@^28.1.1":
   version "28.1.1"
   resolved "https://registry.yarnpkg.com/@jest/types/-/types-28.1.1.tgz#d059bbc80e6da6eda9f081f293299348bd78ee0b"
   integrity sha512-vRXVqSg1VhDnB8bWcmvLzmg0Bt9CRKVgHPXqYwvWMX3TvAjeO+nRuK6+VdTKCtWOvYlmkF/HqNAL/z+N3B53Kw==
@@ -6728,7 +6728,7 @@ jest-snapshot@^28.1.1:
     pretty-format "^28.1.1"
     semver "^7.3.5"
 
-jest-util@^28.1.0, jest-util@^28.1.1:
+jest-util@^28.1.1:
   version "28.1.1"
   resolved "https://registry.yarnpkg.com/jest-util/-/jest-util-28.1.1.tgz#ff39e436a1aca397c0ab998db5a51ae2b7080d05"
   integrity sha512-FktOu7ca1DZSyhPAxgxB6hfh2+9zMoJ7aEQA759Z6p45NuO8mWcqujH+UdHlCm/V6JTWwDztM2ITCzU1ijJAfw==
@@ -7519,6 +7519,11 @@ mkdirp@^1.0, mkdirp@^1.0.3, mkdirp@^1.0.4:
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/mkdirp/-/mkdirp-1.0.4.tgz#3eb5ed62622756d79a5f0e2a221dfebad75c2f7e"
   integrity sha512-vVqVZQyf3WLx2Shd0qJ9xuvqgAyKPLAiqITEtqW0oIUjzo3PePDd6fW9iFz30ef7Ysp/oiWqbhszeGWW2T6Gzw==
+
+mkdirp@^2.1.3:
+  version "2.1.3"
+  resolved "https://registry.yarnpkg.com/mkdirp/-/mkdirp-2.1.3.tgz#b083ff37be046fd3d6552468c1f0ff44c1545d1f"
+  integrity sha512-sjAkg21peAG9HS+Dkx7hlG9Ztx7HLeKnvB3NQRcu/mltCVmvkF0pisbiTSfDVYTT86XEfZrTUosLdZLStquZUw==
 
 mousetrap@^1.5.2:
   version "1.6.5"
